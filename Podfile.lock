@@ -1,0 +1,28 @@
+PODS:
+  - ImageSlideshow (1.9.2):
+    - ImageSlideshow/Core (= 1.9.2)
+  - ImageSlideshow/Core (1.9.2)
+  - KDCalendar (1.8.9):
+    - KDCalendar/EventManager (= 1.8.9)
+  - KDCalendar/EventManager (1.8.9)
+  - Slidoo (1.0.4)
+
+DEPENDENCIES:
+  - ImageSlideshow (~> 1.9.0)
+  - KDCalendar (~> 1.8.9)
+  - Slidoo
+
+SPEC REPOS:
+  trunk:
+    - ImageSlideshow
+    - KDCalendar
+    - Slidoo
+
+SPEC CHECKSUMS:
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  KDCalendar: a587bc486b992d82ef94bd04001fce9baf45e518
+  Slidoo: 10abe2e9c008d827cadf44667e8cbd7d4c7fe4e4
+
+PODFILE CHECKSUM: 969e3b846bce3229d4d2277044a32d394780968c
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MnB-MnBUITests/Pods-MnB-MnBUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ImageSlideshow/ImageSlideshow.framework
+${BUILT_PRODUCTS_DIR}/KDCalendar/KDCalendar.framework
+${BUILT_PRODUCTS_DIR}/Slidoo/Slidoo.framework
